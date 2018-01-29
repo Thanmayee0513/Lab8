@@ -23,7 +23,7 @@
 # instead of the actual count.
 # So donuts(5) returns 'Number of donuts: 5'
 # and donuts(23) returns 'Number of donuts: many
-#function to print the number of donuts
+#function to print the numbers of donuts
 count=input("enter the donuts:")
 
 def donuts(count):
